@@ -4,7 +4,7 @@ Olá! Eu sou o:
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Kauê+Pereira+dos+Santos;" />
 </h1>
 
-## 🎓 Formação
+🎓 Formação
 
 * **SENAI** — Técnico em Redes de Computadores (2024–2025)
 * **IFSP** — Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)
@@ -29,7 +29,3 @@ Olá! Eu sou o:
 * Ouvir música
 * Jogar videogame
 
----
-
-**Kauê Pereira dos Santos**
-Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
