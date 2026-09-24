@@ -1,16 +1,35 @@
-## Hi there 👋
+Olá! Meu nome é **Kauê Pereira dos Santos**.
 
-<!--
-**kauepereirasantos/kauepereirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação
 
-Here are some ideas to get you started:
+* **SENAI** — Técnico em Redes de Computadores (2024–2025)
+* **IFSP** — Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Conhecimentos
+
+Tenho conhecimentos em áreas de **redes de computadores, sistemas e programação**, incluindo:
+
+* Redes e equipamentos Cisco
+* IPv4 e Subnetting
+* DHCP, DNS e Gateway
+* VLANs
+* Windows Server e Linux
+* Serviços de rede
+* Segurança de redes
+* Virtualização
+* Python, Java e C
+
+## 🎮 Hobbies
+
+Fora dos estudos, gosto de:
+
+* Assistir filmes, séries e animes
+* Jogar xadrez
+* Ler
+* Ouvir música
+* Jogar videogame
+
+---
+
+**Kauê Pereira dos Santos**
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
