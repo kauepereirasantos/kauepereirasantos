@@ -23,8 +23,6 @@ Olá! Eu sou o:
 
 ## 🎮 Hobbies
 
-Fora dos estudos, gosto de:
-
 * Assistir filmes, séries e animes
 * Jogar xadrez
 * Ler
