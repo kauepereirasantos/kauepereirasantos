@@ -11,9 +11,7 @@ Olá! Eu sou o:
 
 ## 💻 Conhecimentos
 
-Tenho conhecimentos em áreas de **redes de computadores, sistemas e programação**, incluindo:
-
-* Redes e equipamentos Cisco
+* Roteadores e Switches Cisco
 * IPv4 e Subnetting
 * DHCP, DNS e Gateway
 * VLANs
