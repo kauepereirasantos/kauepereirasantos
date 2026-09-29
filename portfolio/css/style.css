@@ -1,0 +1,11 @@
+.hobbies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.hobbies img {
+    width: 200px;
+    height: 300px;
+}
